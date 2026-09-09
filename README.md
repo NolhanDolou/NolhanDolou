@@ -1,5 +1,5 @@
 # 💫 About Me:
-Étudiant en BUT 2  à l'IUT informatique d'Orléans<br><br>/!\ Ce github sert essentiellement aux projets lié à mes études. /!\<br>
+Étudiant en BUT 3  à l'IUT informatique d'Orléans<br><br>/!\ Ce github sert essentiellement aux projets lié à mes études. /!\<br>
 
 
 # 💻 Tech Stack:
